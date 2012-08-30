@@ -1,0 +1,15 @@
+body		{color:black; background-color:white; font-family:"Arial",sans-serif; margin-top:30px;width:75%;}
+h4			{text-decoration:underline;font-size:1em;margin-bottom:5px;margin-left:10px;}
+
+#ctl		{top: 0px; width: 100%; background-image: url(pbg.png); position: fixed; z-index: 51;}
+.btn		{text-align: center; padding: 3px; color: #fff;background-color:red; font-weight:bold;}
+.btn:hover	{color:red; background-color:#fff;}
+
+#bigbox		{background-color: #ffffe3;padding:2px;border-left:solid 15px #dedede;border-right:solid 15px #dedede;margin-left:20px;margin-right:20px;height:200px;}
+.segment	{margin-left:20px;margin-right:20px;background-color: #dedede; empty-cells: show; border:solid thick #dedede;}
+
+table				{width:100%; empty-cells: show; border:solid thick #dedede;}
+table td.logo		{width:98px; background-image: url(logo.png);height:91px;}
+table td.topbox		{background-color: #ffffe3;vertical-align:top;border-right: #7a7a7a solid; padding: 20px;border-left: #7a7a7a solid; text-align:center;}
+table td.box		{background-color: #ffffe3;padding:2px;border:solid thick #dedede;}
+table td.ttl		{vertical-align:center;padding:2px;color: #5f5e62;}

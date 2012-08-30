@@ -1,0 +1,17 @@
+a:link		{text-decoration:none; color: #0000bb;}
+a:visited	{text-decoration:none; color: #0000bb;}
+a:hover		{text-decoration:none; color: #0066ff;}
+h1			{text-align: center;}
+#login		{width: 350px; margin-left: auto; margin-right: auto; padding: 0px;}
+.formL		{float:left; font-weight:bold; width: 150px; height: 25px;}
+.formR		{float:right; width: 200px; height: 25px; text-align: right;}
+.fine		{float:right; width: 350px; height: 15px; text-align: right; font-size: 50%;}
+.msg		{text-align: center; width: 300px; margin-left: auto; margin-right: auto; margin-bottom: 10px;}
+.acctDiv	{top: 0px; left: 0px; width: 100%; background-image: url(pbg.png); position: fixed; z-index: 51;}
+table		{border-collapse:collapse;}
+table.t		{width:100%}
+table td.tdr	{text-align: right;}
+table td.acct	{border-right: 1px solid #dedede; text-align: center; border-left: 1px solid #dedede; background-image: url(pbg.png); padding: 5px; color: yellow;}
+table td.acct a {color: #33ffff;}
+table td.acct a:hover	{color: white;}
+body		{margin-top: 35px; background-color: white;}
